@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Résolutions de conflits devoir GITHub
+Résolutions de conflits devoir GITHub KOUEMOU SAH JEAN EMAC
 
 
 ```
