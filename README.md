@@ -17,7 +17,8 @@ A définir
 
 ### Installation
 
-modifications pour le TP7 en local - KOUEMOU SAH JEAN EMAC
+Résolutions de conflits devoir GITHub KOUEMOU SAH JEAN EMAC
+
 
 
 ```
@@ -59,4 +60,7 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+<<<<<<< HEAD
 
+=======
+>>>>>>> e5c9c475e9a320b6febadb3026052eb11ecabd1b
